@@ -1,0 +1,1 @@
+Am adaugat feature-ul de inmultire a doua numere naturale a si b
