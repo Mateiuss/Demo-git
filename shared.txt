@@ -1,0 +1,1 @@
+Feature-ul A as recomanda sa il punem intr-o clasa utilitara pentru a il folosi din mai multe locuri.
