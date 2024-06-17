@@ -1,0 +1,2 @@
+Am adaugat feature-ul de adaugare a doua numere: a si b.
+Functia poate sa ia doua numere de tip int sau de tip float si returneaza rezultatul in tipul ales.
